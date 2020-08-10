@@ -32,3 +32,4 @@ list2 = []
 for i in range(10):
 	list2.append(i + 1)
 print(list2)
+#7
